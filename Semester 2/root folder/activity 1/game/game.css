@@ -1,0 +1,25 @@
+:root{
+    background-color: #b8d3f5;
+}
+.choice-container{
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 1.8rem;
+    background-color: white;
+    color: rgb(59, 59, 112);
+    height:fit-content;
+}
+.choice-container:hover{
+    cursor:pointer;
+    background-color: rgb(214, 214, 214);
+    
+}
+.choice-prefix{
+    padding:1.5rem;
+    background-color: blue;
+    color:white;
+}
+.choice-text{
+    padding:1.5rem;
+}
